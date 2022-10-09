@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Permanent+Marker&family=Quattrocento+Sans&family=Roboto+Slab&family=Secular+One&display=swap');
+.photo img{
+    height: 400px;
+    width: 350px;
+    border-radius: 10px;
+    
+}
+
+.photo{
+    border: solid rgb(27, 25, 25) 10px;
+    margin-left: 35%;
+    border-radius: 10px; 
+    height: 400px;
+    width: 350px;
+    filter: drop-shadow(10px 10px 4px #00000082);
+    
+}
+
+.conatiner{
+    background-color: rgb(218, 214, 214) ;
+    border: black 5px solid;
+    margin-top: 20px;
+}
+
+.conatiner p{
+    font-size: 20px;
+    text-align: left;
+}
+
+body {
+    background-image: url("bg.png");
+  }
+
+.book img{
+    margin-right: 60px;  
+    margin-bottom: 60px;
+    align-self: center;
+    
+}
+
+
+
